@@ -1,0 +1,25 @@
+{
+  "name": "growthlens",
+  "displayName": "GrowthLens",
+  "version": "1.0.0",
+  "description": "AI-agent skills for marketers, growth & business analysts. 12 skills for competitor teardowns, funnel & UX audits, pricing, offers, ICP, and SEO gaps.",
+  "author": {
+    "name": "fjilvi-afk",
+    "url": "https://github.com/fjilvi-afk"
+  },
+  "homepage": "https://github.com/fjilvi-afk/growthlens",
+  "repository": "https://github.com/fjilvi-afk/growthlens",
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "growth",
+    "competitive-analysis",
+    "business-analysis",
+    "cro",
+    "seo",
+    "positioning",
+    "pricing",
+    "funnel",
+    "skills"
+  ]
+}
