@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Env / secrets
+.env
+.env.*
+*.local
+
+# Logs & temp
+*.log
+tmp/
+.cache/
+
+# Node (for future phases)
+node_modules/
+dist/
+build/
+
+# Python (for future phases)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
