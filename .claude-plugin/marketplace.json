@@ -1,6 +1,6 @@
 {
   "name": "growthlens",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "AI-agent skills for marketers, growth & business analysts — competitor teardowns, funnel audits, pricing analysis, and more.",
   "owner": {
     "name": "fjilvi-afk"
@@ -8,9 +8,9 @@
   "plugins": [
     {
       "name": "growthlens",
-      "description": "12 business-analysis skills your AI agent can apply to any URL: competitor teardown, business-model & offer teardown, funnel audit, landing UX review, pricing & positioning analysis, ad-creative analysis, ICP segmentation, SEO content-gap, social-proof audit, and an online-school audit.",
+      "description": "15 business-analysis skills your AI agent can apply to any URL: competitor teardown, business-model & offer teardown, funnel audit, landing UX review, pricing & positioning analysis, ad-creative analysis, ICP segmentation, SEO content-gap, review mining, email-nurture teardown, webinar-funnel teardown, social-proof audit, and an online-school audit.",
       "source": "./",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "productivity",
       "author": {
         "name": "fjilvi-afk"

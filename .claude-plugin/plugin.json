@@ -1,8 +1,8 @@
 {
   "name": "growthlens",
   "displayName": "GrowthLens",
-  "version": "1.0.0",
-  "description": "AI-agent skills for marketers, growth & business analysts. 12 skills for competitor teardowns, funnel & UX audits, pricing, offers, ICP, and SEO gaps.",
+  "version": "1.1.0",
+  "description": "AI-agent skills for marketers, growth & business analysts. 15 skills for competitor teardowns, funnel & UX audits, pricing, offers, email & webinar funnels, review mining, ICP, and SEO gaps.",
   "author": {
     "name": "fjilvi-afk",
     "url": "https://github.com/fjilvi-afk"

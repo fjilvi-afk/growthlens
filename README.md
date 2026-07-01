@@ -5,7 +5,7 @@
 ### AI-agent skills that turn any URL into a business teardown — for marketers, growth & business analysts.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-12-blue.svg)](#-the-skill-catalog)
+[![Skills](https://img.shields.io/badge/skills-15-blue.svg)](#-the-skill-catalog)
 [![Stars](https://img.shields.io/github/stars/fjilvi-afk/growthlens?style=social)](https://github.com/fjilvi-afk/growthlens/stargazers)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Works with Claude Code · Cursor](https://img.shields.io/badge/works%20with-Claude%20Code%20%C2%B7%20Cursor-8A2BE2.svg)](#-quick-start)
@@ -71,7 +71,7 @@ Each skill triggers on plain requests — *"audit this funnel"*, *"break down th
 
 ## 📚 The skill catalog
 
-**12 skills**, grouped by what you're analyzing. Click any skill to read its method.
+**15 skills**, grouped by what you're analyzing. Click any skill to read its method.
 
 ### 🥊 Competitive & market analysis
 | Skill | What it does | Best for |
@@ -88,18 +88,21 @@ Each skill triggers on plain requests — *"audit this funnel"*, *"break down th
 | [landing-ux-review](skills/landing-ux-review/SKILL.md) | Conversion-focused, scored UX review of a landing page | CRO, pre-launch checks |
 | [ad-creative-analysis](skills/ad-creative-analysis/SKILL.md) | Break down ad hook, angle & awareness level; remix variations | Paid-social & ad research |
 | [social-proof-audit](skills/social-proof-audit/SKILL.md) | Audit trust signals & flag fake/manipulative tactics | Credibility & trust on a page |
+| [email-nurture-teardown](skills/email-nurture-teardown/SKILL.md) | Map an email sequence: timing, goals, angles, soft→hard-sell arc | Nurture, onboarding & launch emails |
 
 ### 👥 Audience & content
 | Skill | What it does | Best for |
 |-------|--------------|----------|
 | [icp-segmentation](skills/icp-segmentation/SKILL.md) | Define the ICP & ranked audience segments (jobs-to-be-done) | Targeting & personas |
 | [seo-content-gap](skills/seo-content-gap/SKILL.md) | Find topics/intents competitors cover and you don't | Content strategy |
+| [review-mining](skills/review-mining/SKILL.md) | Extract voice-of-customer insights & copy angles from reviews | VoC, competitor weaknesses |
 
 ### 🪜 Offer & info-product
 | Skill | What it does | Best for |
 |-------|--------------|----------|
 | [offer-teardown](skills/offer-teardown/SKILL.md) | Map the value ladder & grade the offer's strength | Info-products, courses, DTC |
 | [online-school-audit](skills/online-school-audit/SKILL.md) ⭐ | **Flagship:** end-to-end teardown of a course/coaching business | EdTech & creator competitive research |
+| [webinar-funnel-teardown](skills/webinar-funnel-teardown/SKILL.md) | Break down a webinar/masterclass funnel: reg page → pitch → offer → follow-up | Course & coaching launch funnels |
 
 ## 👤 Who this is for
 
